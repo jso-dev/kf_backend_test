@@ -1,6 +1,5 @@
 const https = require('https');
 const fs = require('fs');
-const { stringify } = require('querystring');
 
 const API_KEY = fs.readFileSync('./api-key.txt', 'ascii', (err, data) => {
     if (err) return console.error(err)
