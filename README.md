@@ -14,7 +14,7 @@ I have created a single script which retrieves two sets of remote data, filters 
 ## To test run 'npm test'
 
 # NOTES
-I was unable to complete the POST request due to unresolved errors
-I did not write any tests
-I did not add error capture for other server response codes
+I was unable to complete the POST request due to unresolved errors\
+I did not write any tests\
+I did not add error capture for other server response codes\
 I did not complete the bonus task
